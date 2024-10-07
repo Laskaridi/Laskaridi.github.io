@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1 align="center">Hi there, I'm <a href="../laskaridi.github.io/index.html" target="_blank">Anastasiia</a> 
+    <h1 align="center">Hi there, I'm <a href="../laskaridi.github.io" target="_blank">Anastasiia</a> 
         <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
         <h3 align="center">Front End student from Ukraine</h3>
 </body>
